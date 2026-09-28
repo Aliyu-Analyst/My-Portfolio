@@ -16,3 +16,6 @@ Do not put the images inside another folder unless you also update the paths in 
 
 GitHub Pages:
 Repository Settings -> Pages -> Deploy from a branch -> main -> / (root).
+
+
+V5 update: Added Medical & Health Statistics and Survival Analysis as specialty/service areas, plus supporting research-statistics positioning and skill descriptions.
